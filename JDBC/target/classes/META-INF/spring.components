@@ -1,0 +1,3 @@
+com.jdbc.config.SpringCore_Config=org.springframework.stereotype.Component
+com.jdbc.dao.impl.UserDaoImpl=org.springframework.stereotype.Component
+com.jdbc.service.impl.UserServiceImpl=org.springframework.stereotype.Component
